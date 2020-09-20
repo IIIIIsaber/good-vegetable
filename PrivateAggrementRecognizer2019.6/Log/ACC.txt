@@ -1,0 +1,286 @@
+2020-09-19 16:45:29
+Epoch= 01,Iter= 025,Accuracy= 0.3884
+2020-09-19 16:47:11
+Epoch= 01,Iter= 050,Accuracy= 0.4216
+2020-09-19 16:48:50
+Epoch= 01,Iter= 075,Accuracy= 0.4277
+2020-09-19 16:50:27
+Epoch= 01,Iter= 100,Accuracy= 0.4414
+2020-09-19 16:52:00
+Epoch= 01,Iter= 125,Accuracy= 0.4386
+2020-09-19 16:53:31
+Epoch= 01,Iter= 150,Accuracy= 0.4486
+2020-09-19 16:55:05
+Epoch= 01,Iter= 175,Accuracy= 0.4543
+2020-09-19 16:56:39
+Epoch= 01,Iter= 200,Accuracy= 0.5031
+2020-09-19 16:58:11
+Epoch= 01,Iter= 225,Accuracy= 0.5381
+2020-09-19 16:59:43
+Epoch= 01,Iter= 250,Accuracy= 0.6061
+2020-09-19 17:01:15
+Epoch= 01,Iter= 275,Accuracy= 0.5263
+2020-09-19 17:02:47
+Epoch= 01,Iter= 300,Accuracy= 0.5943
+2020-09-19 17:04:19
+Epoch= 01,Iter= 325,Accuracy= 0.6289
+2020-09-19 17:05:50
+Epoch= 01,Iter= 350,Accuracy= 0.5597
+2020-09-19 17:07:23
+Epoch= 02,Iter= 375,Accuracy= 0.6389
+2020-09-19 17:09:01
+Epoch= 02,Iter= 400,Accuracy= 0.6741
+2020-09-19 17:10:32
+Epoch= 02,Iter= 425,Accuracy= 0.6989
+2020-09-19 17:12:06
+Epoch= 02,Iter= 450,Accuracy= 0.7036
+2020-09-19 17:13:38
+Epoch= 02,Iter= 475,Accuracy= 0.7174
+2020-09-19 17:15:11
+Epoch= 02,Iter= 500,Accuracy= 0.7254
+2020-09-19 17:16:44
+Epoch= 02,Iter= 525,Accuracy= 0.7441
+2020-09-19 17:18:16
+Epoch= 02,Iter= 550,Accuracy= 0.7451
+2020-09-19 17:19:50
+Epoch= 02,Iter= 575,Accuracy= 0.7576
+2020-09-19 17:21:24
+Epoch= 02,Iter= 600,Accuracy= 0.7574
+2020-09-19 17:23:02
+Epoch= 02,Iter= 625,Accuracy= 0.7709
+2020-09-19 17:24:35
+Epoch= 02,Iter= 650,Accuracy= 0.7257
+2020-09-19 17:26:10
+Epoch= 02,Iter= 675,Accuracy= 0.7680
+2020-09-19 17:27:56
+Epoch= 02,Iter= 700,Accuracy= 0.6981
+2020-09-19 17:29:34
+Epoch= 03,Iter= 725,Accuracy= 0.8016
+2020-09-19 17:31:14
+Epoch= 03,Iter= 750,Accuracy= 0.7420
+2020-09-19 17:32:51
+Epoch= 03,Iter= 775,Accuracy= 0.7760
+2020-09-19 17:34:26
+Epoch= 03,Iter= 800,Accuracy= 0.8177
+2020-09-19 17:35:59
+Epoch= 03,Iter= 825,Accuracy= 0.8280
+2020-09-19 17:37:32
+Epoch= 03,Iter= 850,Accuracy= 0.8293
+2020-09-19 17:39:06
+Epoch= 03,Iter= 875,Accuracy= 0.8227
+2020-09-19 17:40:39
+Epoch= 03,Iter= 900,Accuracy= 0.8379
+2020-09-19 17:42:15
+Epoch= 03,Iter= 925,Accuracy= 0.8506
+2020-09-19 17:43:48
+Epoch= 03,Iter= 950,Accuracy= 0.8521
+2020-09-19 17:45:21
+Epoch= 03,Iter= 975,Accuracy= 0.8513
+2020-09-19 17:46:55
+Epoch= 03,Iter= 1000,Accuracy= 0.8686
+2020-09-19 17:48:28
+Epoch= 03,Iter= 1025,Accuracy= 0.8651
+2020-09-19 17:50:01
+Epoch= 03,Iter= 1050,Accuracy= 0.8824
+2020-09-19 17:51:35
+Epoch= 04,Iter= 1075,Accuracy= 0.8897
+2020-09-19 17:53:08
+Epoch= 04,Iter= 1100,Accuracy= 0.8753
+2020-09-19 17:54:41
+Epoch= 04,Iter= 1125,Accuracy= 0.8937
+2020-09-19 17:56:15
+Epoch= 04,Iter= 1150,Accuracy= 0.8896
+2020-09-19 17:57:49
+Epoch= 04,Iter= 1175,Accuracy= 0.8963
+2020-09-19 17:59:21
+Epoch= 04,Iter= 1200,Accuracy= 0.8984
+2020-09-19 18:00:55
+Epoch= 04,Iter= 1225,Accuracy= 0.8994
+2020-09-19 18:02:28
+Epoch= 04,Iter= 1250,Accuracy= 0.9010
+2020-09-19 18:04:01
+Epoch= 04,Iter= 1275,Accuracy= 0.8991
+2020-09-19 18:05:37
+Epoch= 04,Iter= 1300,Accuracy= 0.8963
+2020-09-19 18:07:10
+Epoch= 04,Iter= 1325,Accuracy= 0.8834
+2020-09-19 18:08:44
+Epoch= 04,Iter= 1350,Accuracy= 0.9014
+2020-09-19 18:10:17
+Epoch= 04,Iter= 1375,Accuracy= 0.9037
+2020-09-19 18:11:49
+Epoch= 04,Iter= 1400,Accuracy= 0.9056
+2020-09-19 18:13:23
+Epoch= 05,Iter= 1425,Accuracy= 0.9100
+2020-09-19 18:14:56
+Epoch= 05,Iter= 1450,Accuracy= 0.9094
+2020-09-19 18:16:29
+Epoch= 05,Iter= 1475,Accuracy= 0.9101
+2020-09-19 18:18:05
+Epoch= 05,Iter= 1500,Accuracy= 0.9106
+2020-09-19 18:19:39
+Epoch= 05,Iter= 1525,Accuracy= 0.9219
+2020-09-19 18:21:12
+Epoch= 05,Iter= 1550,Accuracy= 0.9223
+2020-09-19 18:22:45
+Epoch= 05,Iter= 1575,Accuracy= 0.9237
+2020-09-19 18:24:18
+Epoch= 05,Iter= 1600,Accuracy= 0.9209
+2020-09-19 18:25:51
+Epoch= 05,Iter= 1625,Accuracy= 0.9186
+2020-09-19 18:27:25
+Epoch= 05,Iter= 1650,Accuracy= 0.9211
+2020-09-19 18:28:59
+Epoch= 05,Iter= 1675,Accuracy= 0.9269
+2020-09-19 18:30:32
+Epoch= 05,Iter= 1700,Accuracy= 0.9320
+2020-09-19 18:32:05
+Epoch= 05,Iter= 1725,Accuracy= 0.9357
+2020-09-19 18:33:37
+Epoch= 05,Iter= 1750,Accuracy= 0.9344
+2020-09-19 18:35:11
+Epoch= 05,Iter= 1775,Accuracy= 0.9387
+2020-09-19 18:36:45
+Epoch= 06,Iter= 1800,Accuracy= 0.9407
+2020-09-19 18:38:18
+Epoch= 06,Iter= 1825,Accuracy= 0.9419
+2020-09-19 18:39:51
+Epoch= 06,Iter= 1850,Accuracy= 0.9406
+2020-09-19 18:41:23
+Epoch= 06,Iter= 1875,Accuracy= 0.9454
+2020-09-19 18:42:57
+Epoch= 06,Iter= 1900,Accuracy= 0.9440
+2020-09-19 18:44:29
+Epoch= 06,Iter= 1925,Accuracy= 0.9454
+2020-09-19 18:46:03
+Epoch= 06,Iter= 1950,Accuracy= 0.9453
+2020-09-19 18:47:37
+Epoch= 06,Iter= 1975,Accuracy= 0.9441
+2020-09-19 18:49:12
+Epoch= 06,Iter= 2000,Accuracy= 0.9469
+2020-09-19 18:50:46
+Epoch= 06,Iter= 2025,Accuracy= 0.9456
+2020-09-19 18:52:18
+Epoch= 06,Iter= 2050,Accuracy= 0.9524
+2020-09-19 18:53:53
+Epoch= 06,Iter= 2075,Accuracy= 0.9517
+2020-09-19 18:55:26
+Epoch= 06,Iter= 2100,Accuracy= 0.9514
+2020-09-19 18:56:59
+Epoch= 06,Iter= 2125,Accuracy= 0.9486
+2020-09-19 18:58:32
+Epoch= 07,Iter= 2150,Accuracy= 0.9531
+2020-09-19 19:00:05
+Epoch= 07,Iter= 2175,Accuracy= 0.9516
+2020-09-19 19:01:39
+Epoch= 07,Iter= 2200,Accuracy= 0.9561
+2020-09-19 19:03:12
+Epoch= 07,Iter= 2225,Accuracy= 0.9551
+2020-09-19 19:04:45
+Epoch= 07,Iter= 2250,Accuracy= 0.9531
+2020-09-19 19:06:18
+Epoch= 07,Iter= 2275,Accuracy= 0.9583
+2020-09-19 19:07:51
+Epoch= 07,Iter= 2300,Accuracy= 0.9603
+2020-09-19 19:09:23
+Epoch= 07,Iter= 2325,Accuracy= 0.9606
+2020-09-19 19:10:57
+Epoch= 07,Iter= 2350,Accuracy= 0.9479
+2020-09-19 19:12:30
+Epoch= 07,Iter= 2375,Accuracy= 0.9594
+2020-09-19 19:14:08
+Epoch= 07,Iter= 2400,Accuracy= 0.9563
+2020-09-19 19:15:41
+Epoch= 07,Iter= 2425,Accuracy= 0.9576
+2020-09-19 19:17:14
+Epoch= 07,Iter= 2450,Accuracy= 0.9571
+2020-09-19 19:18:48
+Epoch= 07,Iter= 2475,Accuracy= 0.9566
+2020-09-19 19:20:19
+Epoch= 08,Iter= 2500,Accuracy= 0.9643
+2020-09-19 19:21:53
+Epoch= 08,Iter= 2525,Accuracy= 0.9550
+2020-09-19 19:23:26
+Epoch= 08,Iter= 2550,Accuracy= 0.9531
+2020-09-19 19:24:59
+Epoch= 08,Iter= 2575,Accuracy= 0.9613
+2020-09-19 19:26:32
+Epoch= 08,Iter= 2600,Accuracy= 0.9569
+2020-09-19 19:28:04
+Epoch= 08,Iter= 2625,Accuracy= 0.9637
+2020-09-19 19:29:38
+Epoch= 08,Iter= 2650,Accuracy= 0.9657
+2020-09-19 19:31:12
+Epoch= 08,Iter= 2675,Accuracy= 0.9639
+2020-09-19 19:32:45
+Epoch= 08,Iter= 2700,Accuracy= 0.9594
+2020-09-19 19:34:19
+Epoch= 08,Iter= 2725,Accuracy= 0.9640
+2020-09-19 19:35:51
+Epoch= 08,Iter= 2750,Accuracy= 0.9647
+2020-09-19 19:37:25
+Epoch= 08,Iter= 2775,Accuracy= 0.9654
+2020-09-19 19:38:58
+Epoch= 08,Iter= 2800,Accuracy= 0.9596
+2020-09-19 19:40:30
+Epoch= 08,Iter= 2825,Accuracy= 0.9623
+2020-09-19 19:42:04
+Epoch= 09,Iter= 2850,Accuracy= 0.9679
+2020-09-19 19:43:36
+Epoch= 09,Iter= 2875,Accuracy= 0.9647
+2020-09-19 19:45:09
+Epoch= 09,Iter= 2900,Accuracy= 0.9663
+2020-09-19 19:46:43
+Epoch= 09,Iter= 2925,Accuracy= 0.9644
+2020-09-19 19:48:15
+Epoch= 09,Iter= 2950,Accuracy= 0.9670
+2020-09-19 19:49:49
+Epoch= 09,Iter= 2975,Accuracy= 0.9680
+2020-09-19 19:51:22
+Epoch= 09,Iter= 3000,Accuracy= 0.9569
+2020-09-19 19:52:57
+Epoch= 09,Iter= 3025,Accuracy= 0.9683
+2020-09-19 19:54:30
+Epoch= 09,Iter= 3050,Accuracy= 0.9686
+2020-09-19 19:56:03
+Epoch= 09,Iter= 3075,Accuracy= 0.9691
+2020-09-19 19:57:36
+Epoch= 09,Iter= 3100,Accuracy= 0.9691
+2020-09-19 19:59:09
+Epoch= 09,Iter= 3125,Accuracy= 0.9663
+2020-09-19 20:00:45
+Epoch= 09,Iter= 3150,Accuracy= 0.9593
+2020-09-19 20:02:18
+Epoch= 09,Iter= 3175,Accuracy= 0.9689
+2020-09-19 20:03:52
+Epoch= 09,Iter= 3200,Accuracy= 0.9636
+2020-09-19 20:05:24
+Epoch= 10,Iter= 3225,Accuracy= 0.9689
+2020-09-19 20:06:57
+Epoch= 10,Iter= 3250,Accuracy= 0.9687
+2020-09-19 20:08:32
+Epoch= 10,Iter= 3275,Accuracy= 0.9680
+2020-09-19 20:10:05
+Epoch= 10,Iter= 3300,Accuracy= 0.9673
+2020-09-19 20:11:37
+Epoch= 10,Iter= 3325,Accuracy= 0.9691
+2020-09-19 20:13:10
+Epoch= 10,Iter= 3350,Accuracy= 0.9719
+2020-09-19 20:14:43
+Epoch= 10,Iter= 3375,Accuracy= 0.9709
+2020-09-19 20:16:16
+Epoch= 10,Iter= 3400,Accuracy= 0.9640
+2020-09-19 20:17:48
+Epoch= 10,Iter= 3425,Accuracy= 0.9700
+2020-09-19 20:19:22
+Epoch= 10,Iter= 3450,Accuracy= 0.9697
+2020-09-19 20:20:53
+Epoch= 10,Iter= 3475,Accuracy= 0.9717
+2020-09-19 20:22:27
+Epoch= 10,Iter= 3500,Accuracy= 0.9713
+2020-09-19 20:23:59
+Epoch= 10,Iter= 3525,Accuracy= 0.9709
+2020-09-19 20:25:32
+Epoch= 10,Iter= 3550,Accuracy= 0.9597
+2020-09-20 00:23:33
+Epoch= 00,Iter= 000,Accuracy= 0.9695
