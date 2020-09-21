@@ -10,7 +10,7 @@ def init_db():
 def insert_data(data,str):
     conn = sqlite3.connect('./database/luckycat.db')
     c = conn.cursor()
-    c.execute("INSERT INTO "+str+" VALUES(?)",(int(data),))
+    c.execute("INSERT INTO "+str+" VALUES(?)",(data,))
     conn.commit()
     conn.close()
 

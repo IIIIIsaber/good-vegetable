@@ -155,14 +155,48 @@ for i in range(10000):
         for y in range(num_unknow_data):
             label_list[origin_to_new[y,0]] = origin_to_new[y,1]
 
+        #t把label代号转换具体的协议名称
+        for label_i in range(len(label_list)):
+            label_list[label_i] = int(label_list[label_i])
+            if label_list[label_i] == 0:
+                label_list[label_i] = 'TCP'
+            elif label_list[label_i] == 1:
+                label_list[label_i] = 'UDP'
+            elif label_list[label_i] == 2:
+                label_list[label_i] = 'DNS'
+            elif label_list[label_i] == 3:
+                label_list[label_i] = 'SMB'
+            elif label_list[label_i] == 4:
+                label_list[label_i] = 'MDNS'
+            elif label_list[label_i] == 5:
+                label_list[label_i] = 'SSH'
+            elif label_list[label_i] == 6:
+                label_list[label_i] = 'VNC'
+            elif label_list[label_i] == 7:
+                label_list[label_i] = 'STUN'
+            elif label_list[label_i] == 8:
+                label_list[label_i] = 'HTTP'
+            elif label_list[label_i] == 9:
+                label_list[label_i] = 'NBNS'
+            elif label_list[label_i] == 404:
+                label_list[label_i] = 'UNKNOWN'
+            elif label_list[label_i] == 99:
+                label_list[label_i] = 'NOISY'
+            elif label_list[label_i] >= 100:
+                label_list[label_i] = 'UNKNOWN_'+str(label_list[label_i]-100)
+
         print(label_list)
 
-        table_num = 1
-        insert_list(label_list,'table'+str(table_num))
-        table_num = table_num+1
+        #根据数据名生成表名
+        table_name_1 = data.split('/')
+        table_name_2 = table_name_1[-1].split('.')
+        table_name = table_name_2[0]+'_'+table_name_2[1]
+
+        #将数据插入数据库
+        insert_list(label_list,table_name)
 
         output = pandas.DataFrame(label_list)
-        output.to_csv("./output/1111111.csv", sep=",", header=True, index=False)
+        output.to_csv("./output/result.csv", sep=",", header=True, index=False)
 
         # except:
         #     print("Error:  Donnot Get the file,maybe you input the wrong file name.\n\n")
