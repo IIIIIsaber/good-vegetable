@@ -5,7 +5,7 @@ warnings.filterwarnings("ignore")
 # 定义是否使用GPU
 device = torch.device("cpu")
 
-def process(net,data_loader,threshold=0.95):
+def process(net,data_loader,threshold=0.97):
     num_correct = 0
     size = 0
     label = list()

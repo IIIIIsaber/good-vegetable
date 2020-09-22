@@ -1,6 +1,7 @@
 #! /usr/bin/python3
 
 import sqlite3
+from subprocess import call
 
 def init_db():
     conn = sqlite3.connect('./database/luckycat.db')
@@ -19,7 +20,7 @@ def delete_data(data,str):
     c = conn.cursor()
     c.execute("DELETE FROM "+str+" WHERE DATA=(?)",(data,))
     conn.commit()
-    print("TABLE '"+str+"' DELETE DATA SUCCESSFUL\n") 
+    print("TABLE '"+str+"' DELETE DATA SUCCESSFUL!\n")
     conn.close()
 
 def output_result(str):
@@ -37,4 +38,7 @@ def insert_list(list,str):
     c.execute("CREATE TABLE IF NOT EXISTS "+str+"(DATA INT NOT NULL)")
     for x in list:
         insert_data(x,str)
-    print("TABLE '"+str+"' INSERT DATA SUCCESSFUL\n") 
+    print("TABLE '"+str+"' INSERT DATA SUCCESSFUL!\n")
+
+def show_database():
+    call(["xdg-open",'./database/luckycat.db'])
