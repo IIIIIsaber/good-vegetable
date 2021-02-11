@@ -1,12 +1,7 @@
 from sklearn.cluster import KMeans
 import numpy as np
-import math
 import pandas as pd
-import warnings
 from sklearn.cluster import DBSCAN
-from sklearn import metrics
-from sklearn.preprocessing import StandardScaler
-
 
 def superdbscan(dataSet):
     #k,myinit,Q_dataSet,origin_dataSet,Q_dataSet_toOrigin,Q_dataSet_number = k_cluster(dataSet)
